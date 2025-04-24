@@ -1,5 +1,7 @@
-👋 Hi, I'm Agung Hidayanto  
-🎓 Computer Science graduate (soon!) from Institut Widya Pratama  
-💻 Deeply interested in web development, especially with React and Laravel  
-📍 Batang, Indonesia
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Agung.
+</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
